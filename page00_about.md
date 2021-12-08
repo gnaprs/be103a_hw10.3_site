@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Microtubule Catastrophe 
+title: Introduction 
 description: Information about the project, website, and links to the paper and SI
 img: about.jpg # Add image post (optional)
 caption: "Kinesin Cargo Art"
