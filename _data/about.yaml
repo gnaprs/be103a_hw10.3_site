@@ -14,16 +14,6 @@ title: >
 authors: >
   Brian Ahn, Nadia Suryawinata and Marion Pang
 Abstract: >
-  [Gardner, Zanic, and coworkers](http://dx.doi.org/10.1016/j.cell.2011.10.037) investigated 
-  the dynamics of microtubule catastrophe, the switching of a microtubule from a growing to 
-  a shrinking state. In particular, they were interested in the time between the start of 
-  growth of a microtubule and   the catastrophe event. They monitored microtubules by using 
-  tubulin (the monomer   that comprises a microtubule) that was labeled with a fluorescent 
-  marker. As a control   to make sure that fluorescent labels and exposure to laser light 
-  did not affect the   microtubule dynamics, they performed a similar experiment using 
-  differential interference   contrast (DIC) microscopy. They measured the time until 
-  catastrophe with labeled and unlabeled tubulin.
-
   Microtubules are dynamic filaments whose ends alternate between periods of slow growth 
   and rapid shortening as they explore intracellular space and move organelles. A key question 
   is how regulatory proteins modulate catastrophe, the conversion from growth to shortening. To 
@@ -36,7 +26,15 @@ Abstract: >
   of maximum lengths prior to catastrophe, whereas MCAK promotes rapid restructuring of the microtubule 
   cytoskeleton by making catastrophe a first-order random process.
 Summary:  >
-  insert summary here bc im too tired to think
+  [Gardner, Zanic, and coworkers](http://dx.doi.org/10.1016/j.cell.2011.10.037) investigated 
+  the dynamics of microtubule catastrophe, the switching of a microtubule from a growing to 
+  a shrinking state. In particular, they were interested in the time between the start of 
+  growth of a microtubule and   the catastrophe event. They monitored microtubules by using 
+  tubulin (the monomer   that comprises a microtubule) that was labeled with a fluorescent 
+  marker. As a control   to make sure that fluorescent labels and exposure to laser light 
+  did not affect the   microtubule dynamics, they performed a similar experiment using 
+  differential interference   contrast (DIC) microscopy. They measured the time until 
+  catastrophe with labeled and unlabeled tubulin.
 Acknowledgments: > 
   Done by Ahn Seo Kyung (Brian), Nadia Suryawinata and Marion Pang, with help from Professor Justin Bois and TAs 
   Victoria Chen, Rosita Fu, Nastya Grebin, Matteo Guareschi, Rashi Jeeda and David Larios.
