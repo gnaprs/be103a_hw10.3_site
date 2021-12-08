@@ -1,17 +1,6 @@
 - fig:
-  title: "Fig. 1: Paleo cardigan kombucha, pickled brunch shabby chic "
-  filename: script1.py
-  desc:  Used to generate the figure1
-  pic: https://i.imgur.com/lcza5L3.png
-  req:
-    - ds: 
-      storage: remote
-      title: Microtubule time to catastrophe for labelled and unlabelled tubulin
-      link: "https://s3.amazonaws.com/bebi103.caltech.edu/data/gardner_time_to_catastrophe_dic_tidy.csv"
-
-- fig:
-  title: "Fig. 2: Paleo cardigan kombucha, pickled brunch shabby chic "
-  filename: script1.py
+  title: "Fig. 1: ECDF Comparison between unlabelled and labelled tubulin "
+  filename: simple_analysis.ipynb
   desc:  Used to generate the figure1
   pic: fig1.png
   req:
@@ -21,10 +10,10 @@
       link: "https://s3.amazonaws.com/bebi103.caltech.edu/data/gardner_time_to_catastrophe_dic_tidy.csv"
 
 - fig:
-  title: "Fig. 3: Paleo cardigan kombucha, pickled brunch shabby chic "
-  filename: script1.py
-  desc:  Used to generate the figure1
-  pic: fig1.png
+  title: "Fig. 2: ECDF of numerically simulated gamma plots "
+  filename: simulated_distributions.ipynb
+  desc:  Used to generate the figure2
+  pic: fig2.png
   req:
     - ds: 
       storage: remote
@@ -32,12 +21,23 @@
       link: "https://s3.amazonaws.com/bebi103.caltech.edu/data/gardner_time_to_catastrophe_dic_tidy.csv"
 
 - fig:
-  title: "Fig. 4: Paleo cardigan kombucha, pickled brunch shabby chic "
-  filename: script1.py
-  desc:  Used to generate the figure1
-  pic: fig1.png
+  title: "Fig. 3: ECDF comparison between actual and simulated gamma parameters"
+  filename: simulated_distributions.ipynb
+  desc:  Used to generate the figure3
+  pic: fig3.jpg
   req:
     - ds: 
       storage: remote
       title: Microtubule time to catastrophe for labelled and unlabelled tubulin
       link: "https://s3.amazonaws.com/bebi103.caltech.edu/data/gardner_time_to_catastrophe_dic_tidy.csv"
+
+- fig:
+  title: "Fig. 4: ECDF comparison of different tubulin concentrations"
+  filename: tubulin_concentration.ipynb
+  desc:  Used to generate the figure4
+  pic: fig4.png
+  req:
+    - ds: 
+      storage: remote
+      title: Microtubule time to catastrophe for various concentrations of tubulin
+      link: "https://s3.amazonaws.com/bebi103.caltech.edu/data/gardner_mt_catastrophe_only_tubulin.csv"

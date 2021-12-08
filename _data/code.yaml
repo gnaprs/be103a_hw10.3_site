@@ -1,20 +1,20 @@
 - script:
-  name: hw2.3ipynb
+  name: simple_analysis.ipynb
   desc: >
     Microtubule catastrophe and ECDFs.
 - script:
-  name: hw6.2.ipynb
+  name: simulated_distributions.ipynb
   desc: >
     Develop a Gamma model to model microtubule catastrophe dynamics.
 - script:
-  name: hw7.1.ipynb
+  name: confidence_intervals.ipynb
   desc: >
     Confidence intervals for the plug-in estimate for the mean time to catastrophe for each of the two conditions.
 - script:
-  name: hw9.2.ipynb
+  name: mle_intervals.ipynb
   desc: >
     Maximum likelihood estimate for the parameters of the Gamma distribution, with confidence regions for our MLE.
 - script:
-  name: hw10.1.ipynb
+  name: tubulin_concentration.ipynb
   desc: >
     Analysis of microtubule catastrophe, comparing two possible models of dyanmics. In one model, the catastrophe times were Gamma distributed, and in another, they were distributed according to the following story: The arrival of two successive Poisson processes (with different rates) immediately trigger microtubule catastrophe..
