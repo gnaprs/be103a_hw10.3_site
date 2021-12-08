@@ -9,23 +9,29 @@
 # of the `page01_people.md` file.
 # ##############################################################################
 - author:
-  name: Dr. Osophila
-  link: "https://en.wikipedia.org/wiki/Drosophila"
-  title: Postdoctoral Scholar
-  img: dr_osophila.jpg
+  name: Brian Ahn
+  link: "https://en.wikipedia.org/wiki/Minecraft"
+  title: G1 Bioengineering
+  img: brian.jpg
   institute: Bicoid Institute of Development
   other_info:
-     Email Address: "flyguy@university.edu"
+     Email Address: "sahn@caltech.edu"
 - author:
-  name: Dr. Melanie O'Gaster
-  link: "https://en.wikipedia.org/wiki/Drosophila_melanogaster"
-  title: Postdoctoral Scholar
-  img: melanogaster.jpg
-  institute: French Flag Research Institute
+  name: Nadia Suryawinata
+  link: "https://en.wikipedia.org/wiki/Caenorhabditis_elegans"
+  title: G1 Biology
+  img: nadia.jpg
+  institute: Caltech
   other_info:
-    Current Location: Apple Juice Plates, Inc
+    Email Address: "nsuryawi@caltech.edu"
+    Current Location: Pasadena, CA
 
 - author:
-  name: Sally Monella
-  title: Research Technician
-  institute: French Flag Research Institute
+  name: Marion Pang
+  link: "https://gnaprs.github.io/"
+  title: G1 Bioengineering
+  img: marion.png
+  institute: Caltech
+  other_info:
+    Email Address: "marion.pang@caltech.edu"
+    Current Location: Pasadena, CA
